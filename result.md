@@ -1,84 +1,42 @@
-| First Name | Last Name | Email                              | Address ID |
-|:-----------|:----------|:-----------------------------------|-----------:|
-| Aaron      | Selby     | aaron.selby@sakilacustomer.org     |        380 |
-| Adam       | Gooch     | adam.gooch@sakilacustomer.org      |        372 |
-| Adrian     | Clary     | adrian.clary@sakilacustomer.org    |        531 |
-| Agnes      | Bishop    | agnes.bishop@sakilacustomer.org    |        221 |
-| Alan       | Kahn      | alan.kahn@sakilacustomer.org       |        394 |
-| Albert     | Crouse    | albert.crouse@sakilacustomer.org   |        445 |
-| Alexander  | Khoo      | alexander.khoo@sakilacustomer.org  |        106 |
-| Alice      | Stewart   | alice.stewart@sakilacustomer.org   |        299 |
-| Allison    | Stanley   | allison.stanley@sakilacustomer.org |        592 |
-| Amanda     | Carter    | amanda.carter@sakilacustomer.org   |        209 |
-| Amber      | Dixon     | amber.dixon@sakilacustomer.org     |        459 |
-| Amy        | Lopez     | amy.lopez@sakilacustomer.org       |        304 |
-| Andrea     | Henderson | andrea.henderson@sakilacustomer.org|        314 |
-| Angela     | Hernandez| angela.hernandez@sakilacustomer.org|        237 |
-| Ann        | Evans     | ann.evans@sakilacustomer.org       |        233 |
-| Anna       | Hill      | anna.hill@sakilacustomer.org       |        323 |
-| Anthony    | Schwab    | anthony.schwab@sakilacustomer.org  |        398 |
-| Ashley     | Richardson| ashley.richardson@sakilacustomer.org|       372 |
-| Barbara    | Jones     | barbara.jones@sakilacustomer.org   |        263 |
-| Betty      | White     | betty.white@sakilacustomer.org     |        285 |
-| Beverly    | Brooks    | beverly.brooks@sakilacustomer.org  |        294 |
-| Brenda     | Wright    | brenda.wright@sakilacustomer.org   |        310 |
-| Brian      | Wyman     | brian.wyman@sakilacustomer.org     |        421 |
-| Brittany   | Riley     | brittany.riley@sakilacustomer.org |        327 |
-| Bruce      | Schwarz   | bruce.schwarz@sakilacustomer.org   |        433 |
-| Carolyn    | Perez     | carolyn.perez@sakilacustomer.org   |        322 |
-| Catherine  | Campbell  | catherine.campbell@sakilacustomer.org|     258 |
-| Charles    | Kowalski  | charles.kowalski@sakilacustomer.org|        398 |
-| Cheryl     | Murphy    | cheryl.murphy@sakilacustomer.org   |        308 |
-| Cindy      | Fisher    | cindy.fisher@sakilacustomer.org    |        339 |
-| Crystal    | Ford      | crystal.ford@sakilacustomer.org    |        345 |
-| Cynthia    | Young     | cynthia.young@sakilacustomer.org   |        331 |
-| Daniel     | Cabral    | daniel.cabral@sakilacustomer.org   |        416 |
-| Deborah    | Walker    | deborah.walker@sakilacustomer.org |        315 |
-| Diana      | Alexander | diana.alexander@sakilacustomer.org|        437 |
-| Donna      | Thompson  | donna.thompson@sakilacustomer.org |        245 |
-| Dorothy    | Taylor    | dorothy.taylor@sakilacustomer.org |        290 |
-| Edward     | Baugh     | edward.baugh@sakilacustomer.org   |        394 |
-| Elizabeth  | Brown     | elizabeth.brown@sakilacustomer.org|        269 |
-| Emily      | Diaz      | emily.diaz@sakilacustomer.org      |        432 |
-| Eric       | Robert    | eric.robert@sakilacustomer.org     |        408 |
-| Evelyn     | Morgan    | evelyn.morgan@sakilacustomer.org  |        317 |
-| Frances    | Parker    | frances.parker@sakilacustomer.org |        271 |
-| Gloria     | Cook      | gloria.cook@sakilacustomer.org     |        351 |
-| Grace      | Ellis     | grace.ellis@sakilacustomer.org     |        369 |
-| Heather    | Morris    | heather.morris@sakilacustomer.org |        335 |
-| Helen      | Harris    | helen.harris@sakilacustomer.org   |        292 |
-| Irene      | Price     | irene.price@sakilacustomer.org    |        359 |
-| Jacqueline | Long      | jacqueline.long@sakilacustomer.org|        397 |
-| James      | Gannon    | james.gannon@sakilacustomer.org   |        402 |
-| Jennifer   | Davis     | jennifer.davis@sakilacustomer.org |        273 |
-| Jessica    | Hall      | jessica.hall@sakilacustomer.org   |        313 |
-| Joan       | Cooper    | joan.cooper@sakilacustomer.org    |        326 |
-| John       | Farnsworth| john.farnsworth@sakilacustomer.org|        410 |
-| Jose       | Andrew    | jose.andrew@sakilacustomer.org    |        424 |
-| Judith     | Cox       | judith.cox@sakilacustomer.org     |        363 |
-| Julia      | Flores    | julia.flores@sakilacustomer.org   |        344 |
-| Justin     | Ngo       | justin.ngo@sakilacustomer.org     |        406 |
-| Karen      | Jackson   | karen.jackson@sakilacustomer.org  |        274 |
-| Katherine  | Rivera    | katherine.rivera@sakilacustomer.org|      328 |
-| Kenneth    | Gooden    | kenneth.gooden@sakilacustomer.org |        419 |
-| Kimberly   | Grant     | kimberly.grant@sakilacustomer.org |        313 |
-| Laura      | Rodriguez | laura.rodriguez@sakilacustomer.org|        317 |
-| Linda      | Williams  | linda.williams@sakilacustomer.org|        281 |
-| Lisa       | Anderson  | lisa.anderson@sakilacustomer.org  |        269 |
-| Margaret   | Moore     | margaret.moore@sakilacustomer.org|        277 |
-| Maria      | Miller    | maria.miller@sakilacustomer.org   |        275 |
-| Martha     | Gonzalez  | martha.gonzalez@sakilacustomer.org|        352 |
-| Mary       | Smith     | mary.smith@sakilacustomer.org     |        269 |
-| Melissa    | King      | melissa.king@sakilacustomer.org   |        310 |
-| Nancy      | Thomas    | nancy.thomas@sakilacustomer.org   |        298 |
-| Nicole     | Peterson  | nicole.peterson@sakilacustomer.org|        362 |
-| Patricia   | Johnson   | patricia.johnson@sakilacustomer.org|      271 |
-| Paula      | Bryant    | paula.bryant@sakilacustomer.org   |        435 |
-| Rebecca    | Scott     | rebecca.scott@sakilacustomer.org  |        341 |
-| Sandra     | Martin    | sandra.martin@sakilacustomer.org  |        294 |
-| Sharon     | Robinson  | sharon.robinson@sakilacustomer.org|        237 |
-| Shirley    | Allen     | shirley.allen@sakilacustomer.org  |        308 |
-| Susan      | Wilson    | susan.wilson@sakilacustomer.org   |        281 |
-| Theresa    | Watson    | theresa.watson@sakilacustomer.org |        307 |
-| Wanda      | Patterson | wanda.patterson@sakilacustomer.org|        394 |
-| Yolanda    | Weaver    | yolanda.weaver@sakilacustomer.org |        194 |
+| First Name   | Last Name   | Email                             | Hire Date   | Job ID | Salary |
+|:-------------|:------------|:----------------------------------|:------------|-------:|-------:|
+| William      | Gietz       | william.gietz@sqltutorial.org     | 2015-06-07  |      1 |   8300 |
+| Shelley      | Higgins     | shelley.higgins@sqltutorial.org   | 2015-06-07  |      2 |  17280 |
+| Jennifer     | Whalen      | jennifer.whalen@sqltutorial.org   | 2008-09-17  |      3 |   5400 |
+| Steven       | King        | steven.king@sqltutorial.org       | 2008-06-17  |      4 |  24000 |
+| Neena        | Kochhar     | neena.kochhar@sqltutorial.org     | 2010-09-21  |      5 |  17000 |
+| Lex          | De Haan     | lex.de haan@sqltutorial.org       | 2014-01-13  |      5 |  17000 |
+| Daniel       | Faviet      | daniel.faviet@sqltutorial.org     | 2015-08-16  |      6 |   9000 |
+| Jose Manuel  | Urman       | jose manuel.urman@sqltutorial.org | 2019-03-07  |      6 |   7800 |
+| Ismael       | Sciarra     | ismael.sciarra@sqltutorial.org    | 2018-09-30  |      6 |   7700 |
+| Luis         | Popp        | luis.popp@sqltutorial.org         | 2020-12-07  |      6 |   6900 |
+| Nancy        | Greenberg   | nancy.greenberg@sqltutorial.org   | 2015-08-17  |      7 |  17280 |
+| John         | Chen        | john.chen@sqltutorial.org         | 2018-09-28  |      7 |  11808 |
+| Susan        | Mavris      | susan.mavris@sqltutorial.org      | 2015-06-07  |      8 |   6500 |
+| Alexander    | Hunold      | alexander.hunold@sqltutorial.org  | 2011-01-03  |      9 |   9000 |
+| Bruce        | Ernst       | bruce.ernst@sqltutorial.org       | 2012-05-21  |      9 |   6000 |
+| Valli        | Pataballa   | valli.pataballa@sqltutorial.org   | 2019-02-05  |      9 |   4800 |
+| David        | Austin      | david.austin@sqltutorial.org      | 2018-06-25  |      9 |   4800 |
+| Diana        | Lorentz     | diana.lorentz@sqltutorial.org     | 2020-02-07  |      9 |   4200 |
+| Michael      | Hartstein   | michael.hartstein@sqltutorial.org | 2017-02-17  |     10 |  18720 |
+| Pat          | Fay         | pat.fay@sqltutorial.org           | 2018-08-17  |     11 |   6000 |
+| Hermann      | Baer        | hermann.baer@sqltutorial.org      | 2015-06-07  |     12 |  11000 |
+| Alexander    | Khoo        | alexander.khoo@sqltutorial.org    | 2016-05-18  |     13 |   3100 |
+| Shelli       | Baida       | shelli.baida@sqltutorial.org      | 2018-12-24  |     13 |   2900 |
+| Sigal        | Tobias      | sigal.tobias@sqltutorial.org      | 2018-07-24  |     13 |   2800 |
+| Guy          | Himuro      | guy.himuro@sqltutorial.org        | 2019-11-15  |     13 |   2600 |
+| Karen        | Colmenares  | karen.colmenares@sqltutorial.org  | 2020-08-10  |     13 |   2500 |
+| Den          | Raphaely    | den.raphaely@sqltutorial.org      | 2015-12-07  |     14 |  15840 |
+| John         | Russell     | john.russell@sqltutorial.org      | 2017-10-01  |     15 |  20160 |
+| Karen        | Partners    | karen.partners@sqltutorial.org    | 2018-01-05  |     15 |  19440 |
+| Jonathon     | Taylor      | jonathon.taylor@sqltutorial.org   | 2019-03-24  |     16 |   8600 |
+| Jack         | Livingston  | jack.livingston@sqltutorial.org   | 2019-04-23  |     16 |   8400 |
+| Kimberely    | Grant       | kimberely.grant@sqltutorial.org   | 2020-05-24  |     16 |   7000 |
+| Charles      | Johnson     | charles.johnson@sqltutorial.org   | 2021-01-04  |     16 |   6200 |
+| Sarah        | Bell        | sarah.bell@sqltutorial.org        | 2017-02-04  |     17 |   4000 |
+| Britney      | Everett     | britney.everett@sqltutorial.org   | 2018-03-03  |     17 |   3900 |
+| Irene        | Mikkilineni | irene.mikkilineni@sqltutorial.org | 2019-09-28  |     18 |   2700 |
+| Adam         | Fripp       | adam.fripp@sqltutorial.org        | 2018-04-10  |     19 |  11808 |
+| Matthew      | Weiss       | matthew.weiss@sqltutorial.org     | 2017-07-18  |     19 |  11520 |
+| Payam        | Kaufling    | payam.kaufling@sqltutorial.org    | 2016-05-01  |     19 |  11376 |
+| Shanta       | Vollman     | shanta.vollman@sqltutorial.org    | 2018-10-10  |     19 |   9360 |
